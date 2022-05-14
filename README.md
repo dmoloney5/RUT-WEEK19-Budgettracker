@@ -19,7 +19,7 @@
   Dennis Moloney
 
   ## Website
-  https://rut-developer-blog.herokuapp.com/
+  https://git.heroku.com/rut-week19-budget-tracker.git
 
   ## Repository
   https://github.com/dmoloney5/RUT-Week14-Developer-Blog.git
