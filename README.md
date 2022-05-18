@@ -22,7 +22,7 @@
   https://rut-week19-budget-tracker.herokuapp.com/
 
   ## Repository
-  https://github.com/dmoloney5/RUT-Week14-Developer-Blog.git
+  https://github.com/dmoloney5/RUT-WEEK19-Budgettracker.git
 
   ## License
   ### The following apps were used: 
